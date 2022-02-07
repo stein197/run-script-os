@@ -1,12 +1,12 @@
 # run-script-os
 
-You will be able to use OS specific operations in npm scripts.
+You will be able to use OS specific operations in npm scripts. This is a fork of original [run-script-os](https://github.com/charlesguse/run-script-os) package.
 
 ## Who would want this?
 If you have experienced the pain of trying to make npm scripts usable across different operating system, this package is for you! Looking at you `rm` and `del`!
 
 ## Installation
-`npm install --save-dev run-script-os`
+`npm install --save-dev @stein197/run-script-os`
 
 ## Usage
 
